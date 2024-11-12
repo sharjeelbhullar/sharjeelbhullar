@@ -8,7 +8,7 @@
 
 ## 💡 Technical Expertise
 
-- Proficient in C++, JavaScript and Python, with expertise demonstrated through solving various LeetCode questions.
+- Proficient in C++, and Python, with expertise demonstrated through solving various LeetCode questions.
 
 ## 🚀 Continuous Learning
 
