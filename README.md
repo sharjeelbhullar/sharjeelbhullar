@@ -1,23 +1,23 @@
 # Sharjeel Ahmad
-👋 Hi there! I'm Sharjeel Ahmad, a passionate software engineer with a focus on Machine Learning and Deep Learning.
+👋 Hi there! I'm Sharjeel Ahmad, a passionate software engineer focusing on Machine Learning and Deep Learning.
 
 ## 🌐 Academic Background
 
-- Pursuing a Ph.D., actively seeking opportunities for the fall/spring 2025 intake.
+- Pursuing a Ph.D., actively seeking fall/spring 2025 intake opportunities.
 - Bachelor's degree in Computer Science from Government College University Faisalabad Sahiwal Campus.
 
 ## 💡 Technical Expertise
 
-- Proficient in C++, and Python, with expertise demonstrated through solving various LeetCode questions.
+- Proficient in Python, with expertise demonstrated through solving various LeetCode questions.
 
 ## 🚀 Continuous Learning
 
-- Currently diving deep into DSA, competitive programming and MERN stack development.
+- Currently diving deep into DSA, Machine Learning, and MERN stack development.
 - Enthusiastic about open-source projects and eager to participate in coding competitions.
 
 ## 🤝 Collaboration
 
-- Actively seeking collaboration opportunities in AI, and full stack development.
+- Actively seeking collaboration opportunities in AI, and full-stack development.
 
  ## Connect with me🤝:
 <div align="center">
